@@ -1,0 +1,10 @@
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\bin\Debug\SMA3Charts.exe.config
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\bin\Debug\SMA3Charts.exe
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\bin\Debug\SMA3Charts.pdb
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.Form1.resources
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.Properties.Resources.resources
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.csproj.GenerateResource.Cache
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.csproj.CoreCompileInputs.cache
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.exe
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.pdb
+D:\University\III kursas\I semestras\Skaitiniai metodai ir algoritmai\LD3\SMA3Charts\obj\Debug\SMA3Charts.csprojAssemblyReference.cache
